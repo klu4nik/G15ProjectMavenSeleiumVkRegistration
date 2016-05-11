@@ -1,0 +1,406 @@
+2016-28-04 11:30:45   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 11:33:44   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 11:35:42   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 11:36:44   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 11:38:21   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 11:39:03   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 11:40:31   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 11:43:23  ERROR [G15SavchukMaven.Vkregistration.RegistrationPage] : Can't work with URL
+2016-28-04 11:43:23  ERROR [libs.WebElementsOnPage] : Text can't be inputedjava.io.FileNotFoundException: src\UIMapping.properties (Не удается найти указанный файл)
+2016-28-04 11:43:23  ERROR [libs.WebElementsOnPage] : Text can't be inputedjava.io.FileNotFoundException: src\UIMapping.properties (Не удается найти указанный файл)
+2016-28-04 11:43:23  ERROR [libs.WebElementsOnPage] : Can't work with dropdown
+2016-28-04 11:43:23  ERROR [libs.WebElementsOnPage] : Element can't be clicked
+2016-28-04 11:43:24   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 11:44:43  ERROR [G15SavchukMaven.Vkregistration.RegistrationPage] : Can't work with URL
+2016-28-04 11:44:43  ERROR [libs.WebElementsOnPage] : Text can't be inputedjava.io.FileNotFoundException: src\UIMapping.properties (Не удается найти указанный файл)
+2016-28-04 11:44:43  ERROR [libs.WebElementsOnPage] : Text can't be inputedjava.io.FileNotFoundException: src\UIMapping.properties (Не удается найти указанный файл)
+2016-28-04 11:44:43  ERROR [libs.WebElementsOnPage] : Can't work with dropdown
+2016-28-04 11:44:44  ERROR [libs.WebElementsOnPage] : Element can't be clicked
+2016-28-04 11:44:44   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 11:48:07   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 11:48:08   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 11:48:08   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 11:48:08  ERROR [libs.WebElementsOnPage] : Can't work with dropdown
+2016-28-04 11:48:08   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-28-04 11:48:09   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 11:48:35   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 11:48:36   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 11:48:36   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 11:48:36  ERROR [libs.WebElementsOnPage] : Can't work with dropdown
+2016-28-04 11:48:37   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-28-04 11:48:37   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 11:50:15   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 12:11:18   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 12:11:19   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 12:11:20   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 12:11:20  ERROR [libs.WebElementsOnPage] : Can't work with dropdown
+2016-28-04 12:11:21   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-28-04 12:11:24   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 12:11:29   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 12:11:30   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 12:11:30   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 12:11:30  ERROR [libs.WebElementsOnPage] : Can't work with dropdown
+2016-28-04 12:11:30   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-28-04 12:11:31   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 12:15:01   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 12:15:01   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 12:15:03   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 12:15:04   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 14:30:41   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 14:30:42   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 14:30:42   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 14:31:05  ERROR [libs.WebElementsOnPage] : Can't work with dropdown
+2016-28-04 14:31:05   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-28-04 14:31:06   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 14:32:30   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 14:32:31   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 14:32:31   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 14:32:32   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 14:33:12   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 14:33:12   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 14:33:13   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 14:33:28   INFO [libs.WebElementsOnPage] : Element is selected by value
+2016-28-04 14:33:28   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-28-04 14:33:28   INFO [libs.WebElementsOnPage] : Element find on page 
+2016-28-04 14:33:52   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 14:34:20   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 14:34:20   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 14:34:20   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 14:34:34  ERROR [libs.WebElementsOnPage] : Can't work with dropdown
+2016-28-04 14:34:35  ERROR [libs.WebElementsOnPage] : Element can't be clicked
+2016-28-04 14:42:30   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 14:42:30   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 14:42:31   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 14:42:31  ERROR [libs.WebElementsOnPage] : Can't work with dropdown
+2016-28-04 14:42:31   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-28-04 14:42:32   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 14:43:02   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 14:43:02   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 14:43:03   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 14:43:03  ERROR [libs.WebElementsOnPage] : Can't work with dropdown
+2016-28-04 14:43:03   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-28-04 14:43:04   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 14:46:49   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 14:46:50   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 14:46:50   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 14:46:51   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 14:57:31   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 14:57:31   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 14:57:32   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 14:57:32  ERROR [libs.WebElementsOnPage] : Can't work with dropdown
+2016-28-04 14:57:32   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-28-04 14:57:33   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 14:58:38   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 14:58:38   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 14:58:38   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 14:58:39  ERROR [libs.WebElementsOnPage] : Can't work with dropdown
+2016-28-04 14:58:39   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-28-04 14:58:39   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 15:00:13   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 15:00:14   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 15:00:14   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 15:00:15  ERROR [libs.WebElementsOnPage] : Element can't be clicked
+2016-28-04 15:00:15   INFO [libs.WebElementsOnPage] : Element is selected by value
+2016-28-04 15:00:15   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-28-04 15:00:15   INFO [libs.WebElementsOnPage] : Element find on page 
+2016-28-04 15:00:36   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 15:09:18   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 15:09:19   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 15:09:19   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 15:09:20  ERROR [libs.WebElementsOnPage] : Can't work with dropdown
+2016-28-04 15:09:20   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-28-04 15:09:20   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 15:16:05   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 15:16:05   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 15:16:06   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 15:16:06  ERROR [libs.WebElementsOnPage] : Can't work with dropdown
+2016-28-04 15:16:06   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-28-04 15:16:08   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 15:35:13   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 15:35:14   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 15:35:15   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 15:35:15   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-28-04 15:35:15   INFO [libs.WebElementsOnPage] : Element find on page 
+2016-28-04 15:35:37   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 15:36:36   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 15:36:36   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 15:36:37   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 15:36:37   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-28-04 15:36:37   INFO [libs.WebElementsOnPage] : Element find on page 
+2016-28-04 15:36:58   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 15:40:16   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 15:40:16   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 15:40:16   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 15:40:17  ERROR [libs.WebElementsOnPage] : Can't work with dropdown
+2016-28-04 15:40:17   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-28-04 15:40:18   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 15:44:24   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 15:44:25   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 15:44:25   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 15:44:26  ERROR [libs.WebElementsOnPage] : Can't work with dropdown
+2016-28-04 15:44:26   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-28-04 15:44:27   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 15:51:49   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 15:51:50   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 15:51:51   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 17:47:18  ERROR [libs.WebElementsOnPage] : Can't work with dropdown
+2016-28-04 17:47:29   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-28-04 17:47:36   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 18:51:57   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 18:51:58   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 18:51:59   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 18:52:21  ERROR [libs.WebElementsOnPage] : Can't work with dropdown
+2016-28-04 18:52:21   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-28-04 18:52:25   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 18:53:04   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 18:53:05   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 18:53:05   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 18:53:06  ERROR [libs.WebElementsOnPage] : Can't work with dropdown
+2016-28-04 18:53:06   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-28-04 18:53:07   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 18:54:51   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 18:54:52   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 18:54:52   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 18:55:14  ERROR [libs.WebElementsOnPage] : Can't work with dropdown
+2016-28-04 18:55:15   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-28-04 18:55:18   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 19:08:33   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 19:08:34   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 19:08:35   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 19:08:56  ERROR [libs.WebElementsOnPage] : Element can't be clicked
+2016-28-04 19:08:56   INFO [libs.WebElementsOnPage] : Element is selected by value
+2016-28-04 19:08:56   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-28-04 19:08:56   INFO [libs.WebElementsOnPage] : Element find on page 
+2016-28-04 19:08:58   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 22:55:04  ERROR [libs.WebElementsOnPage] : Element can't be clicked
+2016-28-04 22:55:05   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 22:55:13   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 22:55:14   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 22:55:15   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 22:55:15   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-28-04 22:55:15   INFO [libs.WebElementsOnPage] : Element find on page 
+2016-28-04 22:55:36   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 22:55:45   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 22:55:45   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 22:56:06  ERROR [libs.WebElementsOnPage] : Element can't be clicked
+2016-28-04 22:56:06   INFO [libs.WebElementsOnPage] : Element is selected by value
+2016-28-04 22:56:06   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-28-04 22:56:06   INFO [libs.WebElementsOnPage] : Element find on page 
+2016-28-04 22:56:07   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 22:56:14   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 22:56:14   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 22:56:15   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 22:56:36  ERROR [libs.WebElementsOnPage] : Element can't be clicked
+2016-28-04 22:56:36   INFO [libs.WebElementsOnPage] : Element is selected by value
+2016-28-04 22:56:36   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-28-04 22:56:36   INFO [libs.WebElementsOnPage] : Element find on page 
+2016-28-04 22:56:58   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 22:57:05   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 22:57:05   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 22:57:06   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 22:57:26  ERROR [libs.WebElementsOnPage] : Element can't be clicked
+2016-28-04 22:57:26   INFO [libs.WebElementsOnPage] : Element is selected by value
+2016-28-04 22:57:26   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-28-04 22:57:26   INFO [libs.WebElementsOnPage] : Element find on page 
+2016-28-04 22:57:28   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 23:12:05   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 23:12:05   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 23:12:06   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 23:12:26  ERROR [libs.WebElementsOnPage] : Element can't be clicked
+2016-28-04 23:12:26   INFO [libs.WebElementsOnPage] : Element is selected by value
+2016-28-04 23:12:27   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-28-04 23:12:27   INFO [libs.WebElementsOnPage] : Element find on page 
+2016-28-04 23:12:28   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 23:13:31   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 23:13:32   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 23:13:53  ERROR [libs.WebElementsOnPage] : Element can't be clicked
+2016-28-04 23:13:53   INFO [libs.WebElementsOnPage] : Element is selected by value
+2016-28-04 23:13:53   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-28-04 23:13:53   INFO [libs.WebElementsOnPage] : Element find on page 
+2016-28-04 23:13:54   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 23:14:29   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 23:14:29   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 23:14:30   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 23:14:30   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-28-04 23:14:30   INFO [libs.WebElementsOnPage] : Element find on page 
+2016-28-04 23:14:52   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 23:30:28  ERROR [libs.WebElementsOnPage] : Element can't be clicked
+2016-28-04 23:30:29   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 23:30:36   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 23:30:37   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 23:30:37   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 23:30:37   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-28-04 23:30:37   INFO [libs.WebElementsOnPage] : Element find on page 
+2016-28-04 23:31:00   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 23:31:06   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 23:31:06   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 23:31:27  ERROR [libs.WebElementsOnPage] : Element can't be clicked
+2016-28-04 23:31:27   INFO [libs.WebElementsOnPage] : Element is selected by value
+2016-28-04 23:31:27   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-28-04 23:31:27   INFO [libs.WebElementsOnPage] : Element find on page 
+2016-28-04 23:31:28   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 23:31:35   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 23:31:36   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 23:31:36   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 23:31:57  ERROR [libs.WebElementsOnPage] : Element can't be clicked
+2016-28-04 23:31:57   INFO [libs.WebElementsOnPage] : Element is selected by value
+2016-28-04 23:31:57   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-28-04 23:31:57   INFO [libs.WebElementsOnPage] : Element find on page 
+2016-28-04 23:31:58   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 23:32:04   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 23:32:05   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 23:32:05   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 23:32:26  ERROR [libs.WebElementsOnPage] : Element can't be clicked
+2016-28-04 23:32:26   INFO [libs.WebElementsOnPage] : Element is selected by value
+2016-28-04 23:32:26   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-28-04 23:32:26   INFO [libs.WebElementsOnPage] : Element find on page 
+2016-28-04 23:32:27   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 23:38:13  ERROR [libs.WebElementsOnPage] : Element can't be clicked
+2016-28-04 23:38:13   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 23:39:21   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 23:39:22   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 23:39:22   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 23:39:22   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-28-04 23:39:22   INFO [libs.WebElementsOnPage] : Element find on page 
+2016-28-04 23:39:45   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 23:40:23   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 23:40:24   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 23:40:24   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 23:40:24   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-28-04 23:40:24   INFO [libs.WebElementsOnPage] : Element find on page 
+2016-28-04 23:40:47   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 23:44:02   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 23:44:02   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-28-04 23:44:02   INFO [libs.WebElementsOnPage] : Element find on page 
+2016-28-04 23:44:03   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 23:52:22   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 23:52:22   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 23:52:22   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-28-04 23:52:22   INFO [libs.WebElementsOnPage] : Element find on page 
+2016-28-04 23:52:24   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 23:52:52   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 23:52:52   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-28-04 23:52:52   INFO [libs.WebElementsOnPage] : Element find on page 
+2016-28-04 23:52:53   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 23:53:01   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 23:53:01   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 23:53:02   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-28-04 23:53:02   INFO [libs.WebElementsOnPage] : Element find on page 
+2016-28-04 23:53:03   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 23:53:09   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 23:53:10   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 23:53:31  ERROR [libs.WebElementsOnPage] : Element can't be clicked
+2016-28-04 23:53:31   INFO [libs.WebElementsOnPage] : Element is selected by value
+2016-28-04 23:53:31   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-28-04 23:53:31   INFO [libs.WebElementsOnPage] : Element find on page 
+2016-28-04 23:53:32   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 23:53:38   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 23:53:38   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 23:53:39   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 23:54:00  ERROR [libs.WebElementsOnPage] : Element can't be clicked
+2016-28-04 23:54:00   INFO [libs.WebElementsOnPage] : Element is selected by value
+2016-28-04 23:54:00   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-28-04 23:54:00   INFO [libs.WebElementsOnPage] : Element find on page 
+2016-28-04 23:54:01   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 23:54:07   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 23:54:08   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 23:54:08   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 23:54:29  ERROR [libs.WebElementsOnPage] : Element can't be clicked
+2016-28-04 23:54:29   INFO [libs.WebElementsOnPage] : Element is selected by value
+2016-28-04 23:54:29   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-28-04 23:54:29   INFO [libs.WebElementsOnPage] : Element find on page 
+2016-28-04 23:54:30   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 23:59:18   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 23:59:19   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-28-04 23:59:19   INFO [libs.WebElementsOnPage] : Element find on page 
+2016-28-04 23:59:20   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 23:59:26   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 23:59:26   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 23:59:27   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-28-04 23:59:27   INFO [libs.WebElementsOnPage] : Element find on page 
+2016-28-04 23:59:27   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-28-04 23:59:34   INFO [libs.WebElementsOnPage] : Url was open
+2016-28-04 23:59:34   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-28-04 23:59:55  ERROR [libs.WebElementsOnPage] : Element can't be clicked
+2016-28-04 23:59:55   INFO [libs.WebElementsOnPage] : Element is selected by value
+2016-28-04 23:59:56   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-28-04 23:59:56   INFO [libs.WebElementsOnPage] : Element find on page 
+2016-28-04 23:59:56   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-29-04 00:00:02   INFO [libs.WebElementsOnPage] : Url was open
+2016-29-04 00:00:03   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-29-04 00:00:03   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-29-04 00:00:24  ERROR [libs.WebElementsOnPage] : Element can't be clicked
+2016-29-04 00:00:24   INFO [libs.WebElementsOnPage] : Element is selected by value
+2016-29-04 00:00:24   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-29-04 00:00:24   INFO [libs.WebElementsOnPage] : Element find on page 
+2016-29-04 00:00:25   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-29-04 00:00:31   INFO [libs.WebElementsOnPage] : Url was open
+2016-29-04 00:00:31   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-29-04 00:00:31   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-29-04 00:00:52  ERROR [libs.WebElementsOnPage] : Element can't be clicked
+2016-29-04 00:00:52   INFO [libs.WebElementsOnPage] : Element is selected by value
+2016-29-04 00:00:53   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-29-04 00:00:53   INFO [libs.WebElementsOnPage] : Element find on page 
+2016-29-04 00:00:54   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-29-04 00:04:45   INFO [libs.WebElementsOnPage] : Url was open
+2016-29-04 00:04:46   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-29-04 00:04:46   INFO [libs.WebElementsOnPage] : Element find on page 
+2016-29-04 00:04:47   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-29-04 00:04:54   INFO [libs.WebElementsOnPage] : Url was open
+2016-29-04 00:04:54   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-29-04 00:04:55   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-29-04 00:04:55   INFO [libs.WebElementsOnPage] : Element find on page 
+2016-29-04 00:04:55   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-29-04 00:05:02   INFO [libs.WebElementsOnPage] : Url was open
+2016-29-04 00:05:02   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-29-04 00:05:23  ERROR [libs.WebElementsOnPage] : Element can't be clicked
+2016-29-04 00:05:23   INFO [libs.WebElementsOnPage] : Element is selected by value
+2016-29-04 00:05:23   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-29-04 00:05:23   INFO [libs.WebElementsOnPage] : Element find on page 
+2016-29-04 00:05:24   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-29-04 00:05:31   INFO [libs.WebElementsOnPage] : Url was open
+2016-29-04 00:05:32   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-29-04 00:05:32   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-29-04 00:05:53  ERROR [libs.WebElementsOnPage] : Element can't be clicked
+2016-29-04 00:05:53   INFO [libs.WebElementsOnPage] : Element is selected by value
+2016-29-04 00:05:53   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-29-04 00:05:53   INFO [libs.WebElementsOnPage] : Element find on page 
+2016-29-04 00:05:54   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-29-04 00:06:01   INFO [libs.WebElementsOnPage] : Url was open
+2016-29-04 00:06:02   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-29-04 00:06:02   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-29-04 00:06:23  ERROR [libs.WebElementsOnPage] : Element can't be clicked
+2016-29-04 00:06:23   INFO [libs.WebElementsOnPage] : Element is selected by value
+2016-29-04 00:06:23   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-29-04 00:06:23   INFO [libs.WebElementsOnPage] : Element find on page 
+2016-29-04 00:06:24   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-04-05 23:14:49   INFO [libs.WebElementsOnPage] : Url was open
+2016-04-05 23:14:50   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-04-05 23:14:50   INFO [libs.WebElementsOnPage] : Element find on page 
+2016-04-05 23:14:51   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-04-05 23:14:56   INFO [libs.WebElementsOnPage] : Url was open
+2016-04-05 23:14:57   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-04-05 23:14:57   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-04-05 23:14:57   INFO [libs.WebElementsOnPage] : Element find on page 
+2016-04-05 23:14:58   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-04-05 23:15:06   INFO [libs.WebElementsOnPage] : Url was open
+2016-04-05 23:15:06   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-04-05 23:15:27  ERROR [libs.WebElementsOnPage] : Element can't be clicked
+2016-04-05 23:15:27   INFO [libs.WebElementsOnPage] : Element is selected by value
+2016-04-05 23:15:27   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-04-05 23:15:27   INFO [libs.WebElementsOnPage] : Element find on page 
+2016-04-05 23:15:28   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-04-05 23:15:34   INFO [libs.WebElementsOnPage] : Url was open
+2016-04-05 23:15:35   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-04-05 23:15:35   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-04-05 23:15:56  ERROR [libs.WebElementsOnPage] : Element can't be clicked
+2016-04-05 23:15:56   INFO [libs.WebElementsOnPage] : Element is selected by value
+2016-04-05 23:15:56   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-04-05 23:15:56   INFO [libs.WebElementsOnPage] : Element find on page 
+2016-04-05 23:15:57   INFO [libs.WebElementsOnPage] : Browser is closed
+2016-04-05 23:16:03   INFO [libs.WebElementsOnPage] : Url was open
+2016-04-05 23:16:04   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-04-05 23:16:04   INFO [libs.WebElementsOnPage] : Text is inputed
+2016-04-05 23:16:09  ERROR [libs.WebElementsOnPage] : Can't work with dropdown
+2016-04-05 23:16:10   INFO [libs.WebElementsOnPage] : Element is clicked
+2016-04-05 23:16:10   INFO [libs.WebElementsOnPage] : Browser is closed
